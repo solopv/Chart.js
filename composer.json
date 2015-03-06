@@ -1,0 +1,13 @@
+{
+    "name": "solopv/Chart.js",
+    "description": "Js plugin for build graphs",
+    "homepage": "http://www.chartjs.org/",
+    "keywords": [
+        "graphs"
+    ],
+    "authors": [{
+        "name": "nnnick"
+    }],
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
